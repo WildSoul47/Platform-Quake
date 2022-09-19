@@ -1,0 +1,1 @@
+global.hasgun = global.hasPMG || global.hasRL
