@@ -2,15 +2,22 @@
 a 2D Quakelike Game
 
 使用的GameMaker引擎进行的开发，可正常体验。
-已完成的功能包括
+已完成的功能包括：
+
 1、常规的Charactor,Control,Combat
-2、开始与结束彩蛋
+
+2、开始与结束菜单
+
 
 特色能力：
 1、Rocket Jump
+
 2、Portals
+
 3、Jump Paddle
+
 4、Deadly Spikes
+
 
 目前仍在基于Unity开发商业游戏项目。
 因此此项目暂时没时间进行迭代，包括新增各类英雄、铺设关卡、美术升级。
